@@ -62,4 +62,4 @@ Welcome to the Coffee Shop Sales Dashboard project! 🎉 This project aims to en
 
 ---
 
-Thank you for exploring this project! 😊 If you have any questions or need further assistance, feel free to reach out.
+## Thank you for exploring this project! 😊 If you have any questions or need further assistance, feel free to reach out.
